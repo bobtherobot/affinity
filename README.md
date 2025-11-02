@@ -7,7 +7,7 @@ This repo provides a file "Bob-2025-11-22.affshortcuts" you can load into Affini
 
 The following adjustments were made. Hopefully others can contribute to this repo to further assist everyone as they migrate.
 
-#### Shortcut Modifications
+## Shortcut Modifications
 
 | Adobe       | Affinity | Command (AI) adobe, (AF) affinity |
 |-------------|------------------|---------------------------|
@@ -20,14 +20,14 @@ The following adjustments were made. Hopefully others can contribute to this rep
 | CMD-8       | SHIFT-OPT-CMD-8  | (AF) Vector > Release Compound Path
 | CMD-J       | CMD-J            | (AF) Vector > Node Tool > Join Curve
 
-#### Migrating
+## Migrating
 | Adobe       | Affinity | Command (AI) adobe, (AF) affinity |
 |-------------|------------------|---------------------------|
 | CMD-7       | Vector Crop Tool | mask
 | OPT-CMD-J   | Use Align Panel  | align vertical/horizontal/both
 
 
-#### Additional Info
+## Additional Info
 - Suomy made decent post with more info related to some of the settings used above. [here](https://forum.affinity.serif.com/index.php?/topic/94333-is-there-a-keyboard-shortcut-file-i-can-load-so-that-affinity-designer-has-the-same-shortcuts-as-adobe-illustrator/)
     - NOTES:
         - Edit > Duplicate
@@ -42,5 +42,5 @@ The following adjustments were made. Hopefully others can contribute to this rep
 NOTE 1: Hide edges. Can't find an equivalent for it in Affinity
 
 
-# See Also
+## See Also
 - [MergeAffinityKeyShortcuts](https://github.com/Pietzcker/MergeAffinityKeyShortcuts)
